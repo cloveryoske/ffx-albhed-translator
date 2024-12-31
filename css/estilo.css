@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    padding-top: 25px;
+}
+div{
+    padding-top: 15px;
+    padding-bottom: auto;
+    padding-left: auto;
+    padding-right: auto;
+    border-radius: 10px;
+    height: 150px;
+    margin-top: 100px;
+    background-color: white;
+    width:500px;
+    border: 1px solid black;
+    margin-left:auto;
+    margin-right: auto;
+    padding-left: 10px;
+}
+body{
+    background-color: #182026;
+}
